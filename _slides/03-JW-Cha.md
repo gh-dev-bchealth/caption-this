@@ -1,8 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our slide deck! - JW Cha"
 
-JW Cha
 ---
 
 Caption here
